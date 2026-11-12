@@ -13,3 +13,5 @@ SERIES = {
     "mre_remittances": "Evol_MRE_*",
     "travel_receipts": "Evol_recettes_Voyages_*",
 }
+
+REPORTS_DIR = PROJECT_ROOT / "reports"

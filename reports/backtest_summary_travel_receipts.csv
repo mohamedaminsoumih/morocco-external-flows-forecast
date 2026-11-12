@@ -1,0 +1,5 @@
+model,monthly_mape,yearly_mape
+gradient_boosting,14.0,7.6
+holt_winters,13.1,9.3
+seasonal_naive,14.4,10.7
+sarima,17.6,16.2

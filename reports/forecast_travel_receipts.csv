@@ -1,0 +1,13 @@
+date,forecast_mdh,low_mdh,high_mdh,model
+2026-07-01,14341.0,11514.0,17168.0,gradient_boosting
+2026-08-01,20607.0,16539.0,24674.0,gradient_boosting
+2026-09-01,14459.0,11602.0,17316.0,gradient_boosting
+2026-10-01,14231.0,11145.0,17318.0,gradient_boosting
+2026-11-01,10656.0,8317.0,12994.0,gradient_boosting
+2026-12-01,12503.0,9741.0,15266.0,gradient_boosting
+2027-01-01,12575.0,9856.0,15295.0,gradient_boosting
+2027-02-01,11222.0,8788.0,13657.0,gradient_boosting
+2027-03-01,10403.0,8141.0,12666.0,gradient_boosting
+2027-04-01,15033.0,11770.0,18296.0,gradient_boosting
+2027-05-01,9988.0,7783.0,12194.0,gradient_boosting
+2027-06-01,12054.0,9396.0,14712.0,gradient_boosting
